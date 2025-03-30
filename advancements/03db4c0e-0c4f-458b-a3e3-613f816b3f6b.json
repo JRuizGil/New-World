@@ -4810,9 +4810,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-03-29 18:00:29 +0100",
       "1": "2025-03-25 10:23:06 +0100"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
@@ -5063,6 +5064,276 @@
   "exnihilosequentia:recipes/tools/ens_copper_crook": {
     "criteria": {
       "has_pebble": "2025-03-27 00:03:39 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-29 00:53:08 +0100"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-03-29 17:29:50 +0100"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/advanced_collector": {
+    "criteria": {
+      "recipe_condition": "2025-03-29 17:54:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-29 18:05:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-29 18:05:30 +0100"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_golden_crook": {
+    "criteria": {
+      "has_pebble": "2025-03-29 18:05:30 +0100"
+    },
+    "done": true
+  },
+  "colossalchests:base/wood": {
+    "criteria": {
+      "criteria_0": "2025-03-29 18:35:15 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-03-29 18:50:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-29 20:05:39 +0100"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/detector_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/energy_distributor_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/flinger_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/distributor_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/activator_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/fluid_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/placer_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 04:20:12 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/augment_core": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 03:33:15 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/energy_output_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sender_module_2_x4": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/player_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/puller_module_1": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/puller_module_2": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-03-30 04:14:25 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/dropper_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 04:26:41 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/puller_module_2_x4": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/vacuum_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/stack_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 03:16:10 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sender_module_1": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sender_module_3": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sender_module_2": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sender_module_1_alt": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/void_module": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/bulk_item_filter": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/extruder_module_2": {
+    "criteria": {
+      "has_blank_module": "2025-03-30 03:05:52 +0200"
     },
     "done": true
   },

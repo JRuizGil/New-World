@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1743084140250L
+	last_login_time: 1743296692825L
 	chunks: {
 		"minecraft:overworld": [
 			{ x: 1, z: 0, time: 1742781581106L, force_loaded: 1742781582791L }
@@ -38,6 +38,12 @@
 			max_force_loaded_chunks: 25
 			max_claimed_chunks: 500
 			offline_force_loader: 0b
+		}
+	}
+	prevented_access: {
+		93d3a9c0-dfdc-36fd-9405-cb6289d20999: {
+			name: "[Modular Routers]"
+			when: 1743301536394L
 		}
 	}
 }
