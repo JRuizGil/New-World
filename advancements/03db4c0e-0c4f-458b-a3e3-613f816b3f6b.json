@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-01 15:07:02 +0200",
       "minecraft:stony_shore": "2025-03-19 22:23:29 +0100",
       "minecraft:forest": "2025-03-22 03:55:59 +0100",
       "minecraft:deep_dark": "2025-03-24 20:00:27 +0100"
@@ -5211,21 +5212,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_the_recipe": "2025-03-30 04:20:12 +0200"
-    },
-    "done": true
-  },
   "modularrouters:recipes/misc/augment_core": {
     "criteria": {
       "has_blank_module": "2025-03-30 03:05:52 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
-    "criteria": {
-      "has_the_recipe": "2025-03-30 03:33:15 +0200"
     },
     "done": true
   },
@@ -5259,21 +5248,9 @@
     },
     "done": true
   },
-  "create:crafter_lazy_000": {
-    "criteria": {
-      "0": "2025-03-30 04:14:25 +0200"
-    },
-    "done": true
-  },
   "modularrouters:recipes/misc/dropper_module": {
     "criteria": {
       "has_blank_module": "2025-03-30 03:05:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-03-30 04:26:41 +0200"
     },
     "done": true
   },
@@ -5286,12 +5263,6 @@
   "modularrouters:recipes/misc/vacuum_module": {
     "criteria": {
       "has_blank_module": "2025-03-30 03:05:52 +0200"
-    },
-    "done": true
-  },
-  "modularrouters:recipes/misc/stack_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2025-03-30 03:16:10 +0200"
     },
     "done": true
   },
@@ -5334,6 +5305,54 @@
   "modularrouters:recipes/misc/extruder_module_2": {
     "criteria": {
       "has_blank_module": "2025-03-30 03:05:52 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/stack_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 03:16:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 03:33:15 +0200"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-03-30 04:14:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 04:20:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 04:26:41 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/energy_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-04-01 16:28:55 +0200"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-04-01 16:11:47 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-04-01 16:07:43 +0200"
     },
     "done": true
   },
