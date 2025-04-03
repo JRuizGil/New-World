@@ -5464,5 +5464,47 @@
     },
     "done": true
   },
+  "modularrouters:recipes/misc/security_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/fluid_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/muffler_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/blast_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/camouflage_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/sync_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-04-03 00:12:47 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
