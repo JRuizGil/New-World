@@ -5506,5 +5506,65 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-05 02:19:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-05 02:19:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-05 02:19:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-05 02:19:12 +0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/ultimate_trash_can": {
+    "criteria": {
+      "has_the_recipe": "2025-04-05 03:13:43 +0200"
+    },
+    "done": true
+  },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2025-04-05 03:13:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-05 12:29:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-05 12:29:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-05 12:29:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ens_gilded_blackstone": {
+    "criteria": {
+      "has_gold": "2025-04-05 12:29:14 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
